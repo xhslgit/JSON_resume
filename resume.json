@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Tony Liao",
+    "label": "Student",
+    "image": "",
+    "website": "tonyliao.com",
+    "phone": "0475620412",
+    "email": "Tonyliao2009@gmail.com",
+    "summary": "I'm a full stack developer currently studying at UNSW",
+    "location": {
+      "city": "Sydney",
+      "countryCode": "AU"
+    },
+    "profiles": [
+      {
+        "username": "xhslgit",
+        "url": "https://github.com/xhslgit",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [{
+    "company": "Dominos, Kellyville",
+    "position": "Delivery Driver/ In-store team member",
+    "website": "https://www.dominos.com.au/",
+    "startDate": "2019-010-01",
+    "endDate": "2020-04-01",
+    "highlights": [
+      "Improved my ability to work under pressure through working during peak hours",
+      "Acquired customer service skills through dealing with customers face-to-face.",
+      "Utilised negotiation and sales skills to promote products to customers.",
+      "Managed the responsibility to open and close the store on some days."
+    ]
+  }, {
+    "company": "Kmart, Rouse Hill",
+    "position": "Customer service assistant",
+    "website": "https://www.kmart.com.au/",
+    "startDate": "2021-02-01",
+    "endDate": "current"
+  }],
+  "education": [
+    {
+      "endDate": "2023-05-01",
+      "startDate": "2019-02-01",
+      "area": "University Undergraduate (In Progress)",
+      "studyType": "3707 - Bachelor of Engineering (Honours) (Software)",
+      "institution": "University of New South Wales",
+      "gpa": "70+ WAM",
+      "courses": [
+        "COMP2521 - Data Structures and Algorithms",
+        "COMP6080 - Web Front-end Programming",
+        "COMP2041 - Software Construction",
+        "COMP2511 - O-O Design and Programming",
+        "COMP3311 - Database Systems"
+      ]
+    },
+    {
+      "endDate": "2018-11-01",
+      "startDate": "2013-01-01",
+      "area": "High School",
+      "studyType": "HSC",
+      "institution": "The Hills Grammar School"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["Python", "C", "Bash", "Perl", "SQL", "Java", "MIPS", "JavaScript", "ReactJs"],
+      "level": "Experienced",
+      "name": "Programming"
+    }
+  ],
+  "volunteer": [{
+    "organization": "ESL (Electronic Sports League)",
+    "position": "IEM Sydney",
+    "website": "https://www.eslgaming.com/",
+    "startDate": "2019-04-29",
+    "endDate": "2019-05-05",
+    "summary": "Worked Retail/Merchandise at IEM Sydney 2019",
+    "highlights": [
+      "Utilised negotiation and sales skills to promote products to customers",
+      "Developed my ability to work under pressure through working during busy hours"
+    ]
+  }],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese Mandarin",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball",
+      "keywords": [
+        "Hill School Basketball team for 5 years"
+      ]
+    },
+    {
+      "name": "Online Privacy ",
+      "keywords": [
+        "Firm believer in right to privacy."
+      ]
+    }
+  ], 
+  "references": [{
+    "name": "Amin",
+    "reference": "Store Manager, Dominos Kellyville"
+  },
+  {
+    "name": "Allen",
+    "reference": "U.S Lubricants"
+  },
+  {
+    "name": "Mark Harrington",
+    "reference": "Head of Curriculum 7-12, THGS"
+  }]
+}
